@@ -1,2 +1,3 @@
-ABCDhghghghgghhhhhhhhhhhhh
+
 hello i push first repo on the git hub
+now i in the coorect git repo
